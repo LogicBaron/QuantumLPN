@@ -5,7 +5,7 @@ Reference Paper :
   
 
 -----------------
-##Start Simulation
+## Start Simulation
 
 These codes are written in matlab.
 Basically, you can use "lpn.mat" for your simulation.
@@ -25,7 +25,7 @@ you can get more information about pooling on MATLAB : https://www.mathworks.com
 More details of Simulation settings and problem is stated in the paper.
 
 ----------------
-##Simulation Results
+## Simulation Results
 
 Each simulation results are saved in the "data" directory.
 
